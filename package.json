@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/react": "^4.1.1",
+    "@astrojs/vue": "^5.0.2",
     "astro": "^5.0.9"
   }
 }
